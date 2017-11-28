@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "pokesearch",
-    "description": "An empty new project",
+    "description": "Pokemon Search App",
     "slug": "pokesearch",
     "privacy": "public",
     "sdkVersion": "23.0.0",
